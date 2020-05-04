@@ -7,3 +7,10 @@ Virtual style puts your bucket name 1st, s3 2nd, and the region 3rd. Path style 
   https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html
   https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
   
+  
+  
+  https://docs.aws.amazon.com/AmazonS3/latest/dev/storage-class-intro.html
+https://aws.amazon.com/s3/faqs/?nc=sn&loc=6
+
+https://docs.aws.amazon.com/AmazonS3/latest/dev/UploadingObjects.html
+https://docs.aws.amazon.com/AmazonS3/latest/user-guide/restore-archived-objects.html
