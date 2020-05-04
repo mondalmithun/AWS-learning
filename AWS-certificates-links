@@ -1,0 +1,9 @@
+Good Work!
+
+Virtual style puts your bucket name 1st, s3 2nd, and the region 3rd. Path style puts s3 1st and your bucket as a sub domain. Legacy Global endpoint has no region. S3 static hosting can be your own domain or your bucket name 1st, s3-website 2nd, followed by the region. AWS are in the process of phasing out Path style, and support for Legacy Global Endpoint format is limited and discouraged. However it is still useful to be able to recognize them should they show up in logs. Further information: https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.htmlhttps://docs.aws.amazon.com/AmazonS3/latest/dev/VirtualHosting.htmlhttps://docs.aws.amazon.com/general/latest/gr/s3.htmlhttps://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.htmlhttps://docs.aws.amazon.com/AmazonS3/latest/dev/HostingWebsiteOnS3Setup.htmlhttps://aws.amazon.com/blogs/aws/amazon-s3-path-deprecation-plan-the-rest-of-t
+
+
+  https://aws.amazon.com/premiumsupport/knowledge-center/cross-account-access-s3/
+  https://docs.aws.amazon.com/general/latest/gr/aws_tasks-that-require-root.html
+  https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html
+  
